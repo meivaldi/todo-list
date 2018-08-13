@@ -17,8 +17,29 @@
     <link rel="dns-prefetch" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
 
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Jua|Lekton|Montserrat|Shadows+Into+Light" rel="stylesheet">
+
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+
+    <style type="text/css">
+        body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Shadows Into Light', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+        }
+
+        .task {
+            margin-bottom: 20px;
+        }
+
+        .task-completed {
+            margin-bottom: 25px;
+        }
+    </style>
 </head>
 <body>
     <div id="app">
