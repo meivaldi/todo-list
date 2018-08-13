@@ -1,0 +1,34 @@
+This is METAFONT, Version 2.7182818 (TeX Live 2015/Debian) (preloaded base=mf 2017.11.28)  13 AUG 2018 22:36
+**app/User.php app/Models/User.php
+(app/User.php
+! A statement can't begin with `<'.
+<to be read again> 
+                   <
+l.1 <
+     ?php
+? 
+! Extra tokens will be flushed.
+<to be read again> 
+                   <
+l.1 <
+     ?php
+? ^^Xexit
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? ^^X
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? ^^X
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? x
+
