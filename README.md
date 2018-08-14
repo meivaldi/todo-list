@@ -1,3 +1,3 @@
 # todo-list
 
-Ini merupakan sebuah aplikasi web sederhana dimana pada web ini mengimplementasikan sistem CRUD (Create, Read, Update, Delete). Berikut tampilannya :
+Ini merupakan sebuah aplikasi web sederhana dari laravel dimana pada web ini mengimplementasikan sistem CRUD (Create, Read, Update, Delete). Aplikasi ini merupakan sebuah "Todo List" sederhana dimana login dan register. Ketika login, user dapat menambah task dan juga dapat mengupdate task tersebut. Untuk front end nya masih menggunakan blade template yang disediakan laravel. Untuk Berikut tampilannya :
