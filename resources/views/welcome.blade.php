@@ -19,6 +19,8 @@
                 color: #636b6f;
                 font-family: 'Shadows Into Light', sans-serif;
                 font-weight: 100;
+                font-size: 25px;
+                font-style: bold;
                 height: 100vh;
                 margin: 0;
             }
